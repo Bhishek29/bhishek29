@@ -2,7 +2,7 @@
 
 I am a student pursuing Engineering 
 
-<a href="https://app.daily.dev/Shaan690"><img src="https://github.com/Bhishek29/bhishek29/blob/maindevcard.svg" width="200" alt="BSHK JIFFY's Dev Card"/></a>
+<a href="https://app.daily.dev/Shaan690"><img src="https://github.com/Bhishek29/bhishek29/blob/main/devcard.svg" width="200" alt="BSHK JIFFY's Dev Card"/></a>
 
 
 Here are some ideas to get you started:
